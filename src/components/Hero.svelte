@@ -87,8 +87,8 @@
   
   
 <div class="top-banner flash-loop">
-	<img class="flash-image image1" style="animation-delay: 0s" src="src\lib\logos\Artboard 1.jpg" alt="Banner 1" />
-	<img class="flash-image image2" style="animation-delay: 0s" src="src\lib\logos\Artboard 1 copy.jpg" alt="Banner 2" />
+	<img class="flash-image image1" style="animation-delay: 0s" src="src/lib/logos/Artboard 1.jpg" alt="Banner 1" />
+	<img class="flash-image image2" style="animation-delay: 0s" src="src/lib/logos/Artboard 1 copy.jpg" alt="Banner 2" />
 	
 </div>
 
