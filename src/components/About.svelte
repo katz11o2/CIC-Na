@@ -169,20 +169,56 @@ function goTo(page) {
       
   
       <div class="w-[80%] overflow-hidden">
-        <div class="whitespace-nowrap animate-scroll-marquee flex items-center space-x-16">
-          <img src="src/lib/logos/11.png" alt="Logo 1" class="h-47 rounded-lg" />
-          <img src="src/lib/logos/22.png" alt="Logo 2" class="h-47 rounded-lg" />
-          <img src="src/lib/logos/33.png" alt="Logo 3" class="h-47 rounded-lg" />
-          <img src="src/lib/logos/44.png" alt="Logo 4" class="h-47 rounded-lg" />
-          <img src="src/lib/logos/55.png" alt="Logo 5" class="h-47 rounded-lg" />
-          <img src="src/lib/logos/66.png" alt="Logo 6" class="h-47 rounded-lg" />
+        <div class="whitespace-nowrap animate-scroll-marquee flex items-left space-x-2">
+          <a href="https://ibb.co/Q72ZF0FH">
+            <img src="https://i.ibb.co/cKGPcqc8/11.png" alt="11" border="0" class="h-50 w-190 rounded-lg">
+          </a>
+          
+          <a href="https://ibb.co/vx3yYVZs">
+            <img src="https://i.ibb.co/qMNq57k0/22.png" alt="22" border="0" class="h-50 w-170 rounded-lg">
+          </a>
+          
+          <a href="https://ibb.co/tpCB24Kr">
+            <img src="https://i.ibb.co/23KqMyh4/33.png" alt="33" border="0" class="h-50 w-170 rounded-lg">
+          </a>
+          
+          <a href="https://ibb.co/mrCdKxgK">
+            <img src="https://i.ibb.co/XfZ6PwMP/44.png" alt="44" border="0" class="h-50 w-170 rounded-lg">
+          </a>
+          
+          <a href="https://ibb.co/cKYFzrY5">
+            <img src="https://i.ibb.co/xKFjV7Fv/66.png" alt="66" border="0" class="h-50 w-170 rounded-lg">
+          </a>
+          
+          <a href="https://ibb.co/vx3yYVZs">
+            <img src="https://i.ibb.co/qMNq57k0/22.png" alt="22" border="0" class="h-50 w-170 rounded-lg">
+          </a>
+          
           <!-- Duplicates -->
-          <img src="src/lib/logos/11.png" alt="Logo 1" class="h-47 rounded-lg" />
-          <img src="src/lib/logos/22.png" alt="Logo 2" class="h-47 rounded-lg" />
-          <img src="src/lib/logos/33.png" alt="Logo 3" class="h-47 rounded-lg" />
-          <img src="src/lib/logos/44.png" alt="Logo 4" class="h-47 rounded-lg" />
-          <img src="src/lib/logos/55.png" alt="Logo 5" class="h-47 rounded-lg" />
-          <img src="src/lib/logos/66.png" alt="Logo 6" class="h-47 rounded-lg" />
+          <a href="https://ibb.co/Q72ZF0FH">
+            <img src="https://i.ibb.co/cKGPcqc8/11.png" alt="11" border="0" class="h-50 w-170 rounded-lg">
+          </a>
+          
+          <a href="https://ibb.co/mrCdKxgK">
+            <img src="https://i.ibb.co/XfZ6PwMP/44.png" alt="44" border="0" class="h-50 w-170 rounded-lg">
+          </a>
+          
+          <a href="https://ibb.co/mrCdKxgK">
+            <img src="https://i.ibb.co/XfZ6PwMP/44.png" alt="44" border="0" class="h-50 w-170 rounded-lg">
+          </a>
+          
+          <a href="https://ibb.co/vx3yYVZs">
+            <img src="https://i.ibb.co/qMNq57k0/22.png" alt="22" border="0" class="h-50 w-170 rounded-lg">
+          </a>
+          
+          <a href="https://ibb.co/tpCB24Kr">
+            <img src="https://i.ibb.co/23KqMyh4/33.png" alt="33" border="0" class="h-50 w-170 rounded-lg">
+          </a>
+          
+          <a href="https://ibb.co/Q72ZF0FH">
+            <img src="https://i.ibb.co/cKGPcqc8/11.png" alt="11" border="0" class="h-50 w-170 rounded-lg">
+          </a>
+          
         </div>
       </div>
       
@@ -212,11 +248,15 @@ function goTo(page) {
                 <div class="group relative rounded-xl border border-slate-100 bg-white p-4 shadow-sm transition-all hover:-translate-y-1 hover:shadow-lg duration-300 ease-in-out">
 
                     <!-- 🔽 Add your PNG here -->
-                    <img 
-                        src="src\lib\logos\istockphoto-1075374570-612x612.jpg" 
-                        alt="Top Left PNG"
+                    <a href="https://ibb.co/b51zNFYF">
+                      <img 
+                        src="https://i.ibb.co/Kx6FVDBD/istockphoto-1075374570-612x612.jpg" 
+                        alt="istockphoto-1075374570-612x612" 
+                        border="0"
                         class="absolute top-8 left-7 h-20 w-20 mr-10 border-2 border-black rounded object-cover"
-                    />
+                      >
+                    </a>
+                    
 
                     
 
