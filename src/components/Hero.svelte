@@ -87,9 +87,14 @@
   
   
 <div class="top-banner flash-loop">
-	<img class="flash-image image1" style="animation-delay: 0s" src="src/lib/logos/Artboard 1.jpg" alt="Banner 1" />
-	<img class="flash-image image2" style="animation-delay: 0s" src="src/lib/logos/Artboard 1 copy.jpg" alt="Banner 2" />
-	
+	<a href="https://ibb.co/KjgmZH6Z">
+		<img class="flash-image image1" style="animation-delay: 0s" src="https://i.ibb.co/3ybkXH1X/Artboard-1-copy.jpg" alt="Artboard-1-copy" border="0">
+	  </a>
+	  
+	  <a href="https://ibb.co/ynJNFq2X">
+		<img class="flash-image image2" style="animation-delay: 0s" src="https://i.ibb.co/3yHTmcK7/Artboard-1.jpg" alt="Artboard-1" border="0">
+	  </a>
+	  
 </div>
 
 
